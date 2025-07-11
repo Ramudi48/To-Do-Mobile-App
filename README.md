@@ -3,7 +3,10 @@
 ## 📱 To-Do Android App
 
 A lightweight Android mobile application built with Java for managing personal to-do lists. This app supports offline functionality, secure local authentication, and CRUD operations using Room Database.
-
+ The Todo App Mobile Application is designed to help users manage their
+ tasks and to-do lists conveniently on their mobile devices. Unlike other todo
+ apps, this application utilizes local storage to store user data, ensuring data
+ privacy and accessibility even without an internet connection
 ---
 
 ### ✅ Features
@@ -45,7 +48,7 @@ A lightweight Android mobile application built with Java for managing personal t
 
 ### 📸 Screenshots
 
-*(You can add screenshots of login screen, to-do list, and add/edit page here)*
+
 
 ---
 
@@ -54,7 +57,7 @@ A lightweight Android mobile application built with Java for managing personal t
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-android-app.git
+git clone https://github.com/Ramudi48/To-Do-Mobile-App
 ```
 
 #### 2. Open in Android Studio
@@ -129,10 +132,3 @@ com.example.myapplication
 
 ---
 
-### 📃 License
-
-This project is for educational purposes. You can modify it for personal or academic use.
-
----
-
-Let me know if you'd like me to export this as a downloadable `README.md` file or include screenshots too.
