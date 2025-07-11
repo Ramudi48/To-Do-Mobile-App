@@ -33,3 +33,12 @@ Material Design UI
 Responsive layout compatible with various Android screen sizes
 
 Dark mode compatible (optional)
+
+| Layer            | Technology            |
+| ---------------- | --------------------- |
+| Language         | Java                  |
+| UI Framework     | Android SDK + XML     |
+| Local DB         | Room (SQLite wrapper) |
+| State Management | LiveData              |
+| Auth Storage     | SharedPreferences     |
+
